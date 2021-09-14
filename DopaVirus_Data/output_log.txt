@@ -1,0 +1,102 @@
+Initialize engine version: 5.4.5p5 (8c4c93a90556)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 Ti (ID=0x1b06)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.087 seconds
+Platform assembly: D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Gaming\Game Dev Portfolio\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\GGJ 2018 DopaVirus\DopaVirus_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 60Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.756800 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 3670 -> priority: 1 
+  Thread -> id: 4a28 -> priority: 1 
+  Thread -> id: 43ec -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.339500 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.090100 ms (FindLiveObjects: 0.018500 ms CreateObjectMapping: 0.011000 ms MarkObjects: 0.050900 ms  DeleteObjects: 0.009000 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.295700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.060200 ms (FindLiveObjects: 0.005700 ms CreateObjectMapping: 0.005900 ms MarkObjects: 0.040400 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.260800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 197.
+Total: 0.099400 ms (FindLiveObjects: 0.006100 ms CreateObjectMapping: 0.006800 ms MarkObjects: 0.078800 ms  DeleteObjects: 0.007600 ms)
+
+The referenced script on this Behaviour (Game Object 'GameController') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.338100 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 898.
+Total: 0.987700 ms (FindLiveObjects: 0.019500 ms CreateObjectMapping: 0.023300 ms MarkObjects: 0.079100 ms  DeleteObjects: 0.865200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.396200 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 1.459400 ms (FindLiveObjects: 0.006000 ms CreateObjectMapping: 0.006000 ms MarkObjects: 0.043500 ms  DeleteObjects: 1.403700 ms)
+
+The referenced script on this Behaviour (Game Object 'GameController') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.243600 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1229.
+Total: 1.006700 ms (FindLiveObjects: 0.042100 ms CreateObjectMapping: 0.018000 ms MarkObjects: 0.088600 ms  DeleteObjects: 0.857700 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380300 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 1.787200 ms (FindLiveObjects: 0.032100 ms CreateObjectMapping: 0.006400 ms MarkObjects: 0.063700 ms  DeleteObjects: 1.684800 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.256600 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 5363.
+Total: 1.331900 ms (FindLiveObjects: 0.155900 ms CreateObjectMapping: 0.070700 ms MarkObjects: 0.297700 ms  DeleteObjects: 0.807300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.295700 ms
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 1.618000 ms (FindLiveObjects: 0.007200 ms CreateObjectMapping: 0.008600 ms MarkObjects: 0.043200 ms  DeleteObjects: 1.558600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.244900 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.077300 ms (FindLiveObjects: 0.006000 ms CreateObjectMapping: 0.019100 ms MarkObjects: 0.040700 ms  DeleteObjects: 0.011200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.242800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 191.
+Total: 0.061900 ms (FindLiveObjects: 0.005700 ms CreateObjectMapping: 0.005400 ms MarkObjects: 0.042500 ms  DeleteObjects: 0.008000 ms)
+
